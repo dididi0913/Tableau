@@ -136,7 +136,8 @@ Superstore 데이터를 사용해 워크시트 2개 이상을 포함한 미니 �
 포함한 워크시트: 지역별 매출, 범주별 매출
 적용한 동작: 필터 동작
 사용한 구성 방식(바둑판식/부동): 바둑판식
-캡처 이미지: ![alt text](111-1.png)
+캡처 이미지: <img width="901" height="742" alt="111" src="https://github.com/user-attachments/assets/c731a487-7f7b-4392-85f3-6b9e1b4151fa" />
+
 Tableau Public 링크(선택):
 ```
 
