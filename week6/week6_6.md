@@ -1,3 +1,4 @@
+<img width="901" height="742" alt="111" src="https://github.com/user-attachments/assets/cc57276e-0f4f-4c17-9046-5a1a17f086f7" />
 # 📊 Tableau 6주차 정규과제
 
 이번 주는 지금까지 만든 시트들을 하나의 화면으로 엮어 **미니 대시보드**를 제작합니다. 또한 7주차 최종 프로젝트를 가볍게 준비하기 위해, 사용할 데이터와 분석 질문을 미리 정리합니다.
@@ -136,7 +137,9 @@ Superstore 데이터를 사용해 워크시트 2개 이상을 포함한 미니 �
 포함한 워크시트: 지역별 매출, 범주별 매출
 적용한 동작: 필터 동작
 사용한 구성 방식(바둑판식/부동): 바둑판식
-캡처 이미지: <img width="901" height="742" alt="111" src="https://github.com/user-attachments/assets/c731a487-7f7b-4392-85f3-6b9e1b4151fa" />
+캡처 이미지: <img width="901" height="742" alt="111" src="https://github.com/user-attachments/assets/de5d8465-2da7-4d67-8cec-ade9346c220f" />
+
+
 
 Tableau Public 링크(선택):
 ```
